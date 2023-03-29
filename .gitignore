@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unnecessary files
+daphnet-basic-eda-01.ipynb
+starter-data-daphnet-combined-58afe3fb-7.ipynb
+*.Identifier
+# Unnecessary directories
+.vscode/
+my_env/
